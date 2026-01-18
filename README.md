@@ -223,6 +223,28 @@ python tests/run_full_memory_suite.py
 
 ---
 
+## 📄 Scientific Papers
+
+This implementation is based on the following peer-reviewed publications:
+
+### Theoretical Foundation
+
+**Persistent Memory for Decoder-Only Transformers: Latent Terrain, Diffusion, Homeostasis, and Emotional Stabilization**
+
+> Proposes a persistent memory architecture combining sharp representations in latent space (64D) with a compressed 3D terrain layer featuring diffusion and homeostatic regulation. Memory traces carry emotional components that diffuse into terrain and stabilize responses during reading.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18198327.svg)](https://doi.org/10.5281/zenodo.18198327)
+
+### Implementation & Validation
+
+**Implementation of Persistent Latent Memory for Decoder Transformers**
+
+> Presents the complete implementation with experimental validation simulating months of operation. Demonstrates key invariants: **constant data size** (~500 MB fixed volume) and **constant low read/write latency** (microseconds, independent of memory age). Ablation study confirms benefits of diffusion and STM layer.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18267378.svg)](https://doi.org/10.5281/zenodo.18267378)
+
+---
+
 ## 📄 License
 
 **CC BY-NC 4.0** (Creative Commons Attribution-NonCommercial 4.0)
