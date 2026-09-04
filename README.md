@@ -225,7 +225,7 @@ python tests/run_full_memory_suite.py
 
 ## 📄 Scientific Papers
 
-This implementation is based on the following peer-reviewed publications:
+This implementation is based on the following scietific publications:
 
 ### Theoretical Foundation
 
